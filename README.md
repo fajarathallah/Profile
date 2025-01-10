@@ -3,22 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarathallah&label=Profile%20views&color=0e75b6&style=flat" alt="fajarathallah" /> </p>
 
-### Skills
-* **Programming Languages:** Python, R
-* **Tools:** Visual Studio Code, Git, Rstudio
 
-- 📫 Just knock me on
-* **fajarathallahyusuf@gmail.com**
-* **LinkedIn:** [https://www.linkedin.com/in/fajar-athallah-yusuf-5b8442214/]
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=your_username&label=Profile%20views&color=0e75b6&style=flat" alt="your_username" />
-</p>
-
-
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Just knock me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fajarathallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fajarathallah" height="30" width="40" /></a>
 <a href="https://kaggle.com/fajarathallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fajarathallah" height="30" width="40" /></a>
