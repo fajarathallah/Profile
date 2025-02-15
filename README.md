@@ -25,16 +25,19 @@ SAS, and R, which improved technical proficiency and critical thinking skills on
 integrated into the 2024-2025 alumni outreach program.
 
 ## Projects
-[### Dashboard Customer Behavior](https://github.com/fajarathallah/Dashboard-Customer-Behavior)
+### [Dashboard Customer Behavior](https://github.com/fajarathallah/Dashboard-Customer-Behavior)
+
 The dashboard is designed interactively to support the data analysis process with intuitive and informative features. The purpose of the dashboard is to analyze customer behavior using interactive data that encompasses various dimensions, such as product categories, payment methods, location, age, and spending patterns. This helps in making informed business decisions and gaining a deeper understanding of customer behavior.
 
-[### Dashboard scrapping steam](https://github.com/fajarathallah/Scapping-Steam)
+### [Dashboard scrapping steam](https://github.com/fajarathallah/Scapping-Steam)
+
 This project involves web scraping from the Steam store's Top Selling Games section (https://store.steampowered.com). The purpose is to identify trending games and analyze player behavior on Steam.
 
 ## Publications
-[### Analisis Visual dan Karakteristik Klub Sepakbola Liga Inggris Berdasarkan Pola Permainan Menggunakan K-Means Clustering](https://openjournal.unpam.ac.id/index.php/informatika/article/view/44640)
+### [Analisis Visual dan Karakteristik Klub Sepakbola Liga Inggris Berdasarkan Pola Permainan Menggunakan K-Means Clustering](https://openjournal.unpam.ac.id/index.php/informatika/article/view/44640)
+
 This publication applies the K-Means clustering algorithm, an unsupervised learning method, to determine the playing styles of Premier League football teams over a 10-year period. The final results form four clusters.
 
-[### Penerapan Algoritma Decision Tree Untuk Klasifikasi KIPI Vaksin Covid-19](https://publikasi.mercubuana.ac.id/index.php/fifo/article/view/15998)
+### [Penerapan Algoritma Decision Tree Untuk Klasifikasi KIPI Vaksin Covid-19](https://publikasi.mercubuana.ac.id/index.php/fifo/article/view/15998)
 This publication applies the Decision Tree algorithm, a supervised learning classification method, to determine the side effects of the COVID-19 vaccine, which are categorized into three classifications.
   
