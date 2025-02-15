@@ -1,16 +1,40 @@
-<h1 align="center">Hi 👋, I'm Fajar Athallah</h1>
-<h3 align="center">Data Enthusiast</h3>
+# Data Scientist / Data Analyst
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarathallah&label=Profile%20views&color=0e75b6&style=flat" alt="fajarathallah" /> </p>
+#### Technical Skills: Python, SQL, R, Tableau
 
+## Education						       		
+- M.S., Statistics and Data Science	| IPB Univeristy (_Expected July 2026_)	 			        		
+- B.S., Computer Science | Mercubuana UNiversity (_Aug 2022_)
 
-<h3 align="left">Just knock me on:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fajarathallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fajarathallah" height="30" width="40" /></a>
-<a href="https://kaggle.com/fajarathallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fajarathallah" height="30" width="40" /></a>
-</p>
+## Work Experience
+**Assistant Lecturer @ IPB UNiversity (_Aug 2024 - Dec 2024_)**
+- Successfully delivered 14 interactive lectures focused on relational database, analysis and programming fundamentals, with an average 
+student satisfaction rate of 90% based on end-of-semester feedback.
+- Designing special learning modules that improve students' understanding of SQL, SAS, and R
+- Mentored 48 undergraduate students in a hands-on project, guiding them through relational database and data analysis using SQL, 
+SAS, and R, which improved technical proficiency and critical thinking skills on the course's project
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Project Leader @ Dokter Data IPB (_June 2024 - July 2024_)**
+- Analyzed left-censored survival data using Tobit Regression to identify key factors influencing HIV/AIDS.
+- Improved model accuracy by 15% by identifying significant variables affecting survival rates.
+- Applied cross-model validation to enhance the reliability of predictive models and support data-driven decisions.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajarathallah&show_icons=true&locale=en&layout=compact" alt="fajarathallah" /></p>
+**Staff Analysis Project @ Dokter Data IPB (_February 2024 - May 2024_)**
+- Performed thorough data cleaning and preprocessing, ensuring complete accuracy across 5,000+ alumni records, which substantially minimized reporting errors.
+- Partnered with cross-functional teams to define key alumni engagement metrics, leading to the development of a strategic report officially 
+integrated into the 2024-2025 alumni outreach program.
+
+## Projects
+[### Dashboard Customer Behavior](https://github.com/fajarathallah/Dashboard-Customer-Behavior)
+The dashboard is designed interactively to support the data analysis process with intuitive and informative features. The purpose of the dashboard is to analyze customer behavior using interactive data that encompasses various dimensions, such as product categories, payment methods, location, age, and spending patterns. This helps in making informed business decisions and gaining a deeper understanding of customer behavior.
+
+[### Dashboard scrapping steam](https://github.com/fajarathallah/Scapping-Steam)
+This project involves web scraping from the Steam store's Top Selling Games section (https://store.steampowered.com). The purpose is to identify trending games and analyze player behavior on Steam.
+
+## Publications
+[### Analisis Visual dan Karakteristik Klub Sepakbola Liga Inggris Berdasarkan Pola Permainan Menggunakan K-Means Clustering](https://openjournal.unpam.ac.id/index.php/informatika/article/view/44640)
+This publication applies the K-Means clustering algorithm, an unsupervised learning method, to determine the playing styles of Premier League football teams over a 10-year period. The final results form four clusters.
+
+[### Penerapan Algoritma Decision Tree Untuk Klasifikasi KIPI Vaksin Covid-19](https://publikasi.mercubuana.ac.id/index.php/fifo/article/view/15998)
+This publication applies the Decision Tree algorithm, a supervised learning classification method, to determine the side effects of the COVID-19 vaccine, which are categorized into three classifications.
+  
