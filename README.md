@@ -4,10 +4,10 @@
 
 ## Education						       		
 - M.S., Statistics and Data Science	| IPB Univeristy (_Expected July 2026_)	 			        		
-- B.S., Computer Science | Mercubuana UNiversity (_Aug 2022_)
+- B.S., Computer Science | Mercubuana University (_Aug 2022_)
 
 ## Work Experience
-**Assistant Lecturer @ IPB UNiversity (_Aug 2024 - Dec 2024_)**
+**Assistant Lecturer @ IPB University (_Aug 2024 - Dec 2024_)**
 - Successfully delivered 14 interactive lectures focused on relational database, analysis and programming fundamentals, with an average 
 student satisfaction rate of 90% based on end-of-semester feedback.
 - Designing special learning modules that improve students' understanding of SQL, SAS, and R
